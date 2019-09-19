@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63eb466f-d5ba-4538-954e-5127c1a6668b" name="Default Changelist" comment="使用if语句判断数值的范围">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mavenServices.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p1110.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p113.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p114.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p115.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p117.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p118.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p119.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/testR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/learn/algo/ch1/p1112.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java_algo_learn" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1R2VRS2VVI6lgH08vfxAU6p5yCA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/SOFTware/idea_ansdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.p1111">
+    <configuration name="p1110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1110" />
+      <module name="java_algo_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.intellij.java.learn.algo.ch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p1111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1111" />
+      <module name="java_algo_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.intellij.java.learn.algo.ch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p114" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p114" />
+      <module name="java_algo_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.intellij.java.learn.algo.ch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p115" />
+      <module name="java_algo_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.intellij.java.learn.algo.ch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p117" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p117" />
+      <module name="java_algo_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.intellij.java.learn.algo.ch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.p1111" />
+        <item itemvalue="Application.p117" />
+        <item itemvalue="Application.p115" />
+        <item itemvalue="Application.p114" />
+        <item itemvalue="Application.p1110" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63eb466f-d5ba-4538-954e-5127c1a6668b" name="Default Changelist" comment="" />
+      <created>1568865169432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568865169432</updated>
+      <workItem from="1568865171241" duration="11684000" />
+    </task>
+    <task id="LOCAL-00001" summary="如果一个数组不分配内存就拿来使用的话就会报编译错误">
+      <created>1568873437198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568873437198</updated>
+    </task>
+    <task id="LOCAL-00002" summary="从命令行接收参数，并且判断三个参数是否相等，相等打印equal不相等打印 not equal">
+      <created>1568873560293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568873560293</updated>
+    </task>
+    <task id="LOCAL-00003" summary="测试if语句的基本语法">
+      <created>1568874603750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568874603750</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加README.md说明文档">
+      <created>1568875238541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568875238541</updated>
+    </task>
+    <task id="LOCAL-00005" summary="使用if语句判断数值的范围">
+      <created>1568875388743</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568875388743</updated>
+    </task>
+    <task id="LOCAL-00006" summary="运行书上的代码观察输出">
+      <created>1568875464571</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568875464571</updated>
+    </task>
+    <task id="LOCAL-00007" summary="基本的字符串拼接和字符参与运算的例子">
+      <created>1568875509584</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568875509584</updated>
+    </task>
+    <task id="LOCAL-00008" summary="将正整数转化为二进制的算法，包括简单拼接和调用Intenger方法">
+      <created>1568875821769</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568875821769</updated>
+    </task>
+    <task id="LOCAL-00009" summary="阅读第一章中所使用的代码主要用于测试输出">
+      <created>1568875885611</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568875885611</updated>
+    </task>
+    <task id="LOCAL-00010" summary="忽略java编译的二进制文件">
+      <created>1568875947511</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568875947511</updated>
+    </task>
+    <task id="LOCAL-00011" summary="创建idea项目自动生成">
+      <created>1568875973198</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568875973198</updated>
+    </task>
+    <task id="LOCAL-00012" summary="取消忽略idea项目的目录">
+      <created>1568876100512</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568876100512</updated>
+    </task>
+    <task id="LOCAL-00013" summary="可以单独使用的打印二维布尔数组矩阵的方法">
+      <created>1568893089061</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568893089061</updated>
+    </task>
+    <task id="LOCAL-00014" summary="增加了一些更加详细的说明">
+      <created>1568893407772</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1568893407772</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/PROject/java_algo_learn/.idea" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="如果一个数组不分配内存就拿来使用的话就会报编译错误" />
+    <MESSAGE value="从命令行接收参数，并且判断三个参数是否相等，相等打印equal不相等打印 not equal" />
+    <MESSAGE value="测试if语句的基本语法" />
+    <MESSAGE value="添加README.md说明文档" />
+    <MESSAGE value="使用if语句判断数值的范围" />
+    <MESSAGE value="运行书上的代码观察输出" />
+    <MESSAGE value="基本的字符串拼接和字符参与运算的例子" />
+    <MESSAGE value="将正整数转化为二进制的算法，包括简单拼接和调用Intenger方法" />
+    <MESSAGE value="阅读第一章中所使用的代码主要用于测试输出" />
+    <MESSAGE value="忽略java编译的二进制文件" />
+    <MESSAGE value="创建idea项目自动生成" />
+    <MESSAGE value="取消忽略idea项目的目录" />
+    <MESSAGE value="可以单独使用的打印二维布尔数组矩阵的方法" />
+    <MESSAGE value="增加了一些更加详细的说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加了一些更加详细的说明" />
+  </component>
+</project>
