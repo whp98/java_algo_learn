@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63eb466f-d5ba-4538-954e-5127c1a6668b" name="Default Changelist" comment="使用if语句判断数值的范围">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mavenServices.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p1110.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p113.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p114.class" afterDir="false" />
@@ -15,7 +10,8 @@
       <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p118.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p119.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/testR.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/learn/algo/ch1/p1112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/learn/algo/ch1/p1119.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +43,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -61,9 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.p1111">
-    <configuration name="p1110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1110" />
+  <component name="RunManager" selected="Application.p1119">
+    <configuration name="p1115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1115" />
       <module name="java_algo_learn" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p1111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1111" />
+    <configuration name="p1116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1116" />
       <module name="java_algo_learn" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p114" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p114" />
+    <configuration name="p1117" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1117" />
       <module name="java_algo_learn" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p115" />
+    <configuration name="p1118" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1118" />
       <module name="java_algo_learn" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p117" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p117" />
+    <configuration name="p1119" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1119" />
       <module name="java_algo_learn" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p1111" />
-        <item itemvalue="Application.p117" />
-        <item itemvalue="Application.p115" />
-        <item itemvalue="Application.p114" />
-        <item itemvalue="Application.p1110" />
+        <item itemvalue="Application.p1119" />
+        <item itemvalue="Application.p1118" />
+        <item itemvalue="Application.p1117" />
+        <item itemvalue="Application.p1116" />
+        <item itemvalue="Application.p1115" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +143,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568865169432</updated>
-      <workItem from="1568865171241" duration="11684000" />
+      <workItem from="1568865171241" duration="13513000" />
+      <workItem from="1568950062638" duration="99000" />
+      <workItem from="1568950230733" duration="839000" />
+      <workItem from="1569172484550" duration="9000" />
+      <workItem from="1569335415864" duration="19000" />
+      <workItem from="1569376952298" duration="12503000" />
+      <workItem from="1569477271932" duration="3555000" />
+      <workItem from="1569558152233" duration="3101000" />
+      <workItem from="1569732021950" duration="7912000" />
+      <workItem from="1570586376509" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="如果一个数组不分配内存就拿来使用的话就会报编译错误">
       <created>1568873437198</created>
@@ -247,7 +252,63 @@
       <option name="project" value="LOCAL" />
       <updated>1568893407772</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="idea项目提交">
+      <created>1568894461909</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1568894461909</updated>
+    </task>
+    <task id="LOCAL-00016" summary="预测代码的输出结果，并且验证">
+      <created>1568894992662</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1568894992662</updated>
+    </task>
+    <task id="LOCAL-00017" summary="打印二维数组，和二维int数组转置 含有单独的方法，可以用于其他地方">
+      <created>1569378874007</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569378874007</updated>
+    </task>
+    <task id="LOCAL-00018" summary="含有求解小于logn(N)的最大整数的算法可以修改底数直接拿来使用，有两个版本">
+      <created>1569381405086</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1569381405086</updated>
+    </task>
+    <task id="LOCAL-00019" summary="包含一个用于统计整型数组的函数 int[] histogram(int[] a, int M) &#10;一个使用foreach语句实现的整型数组sum求和 &#10;按照元素顺序打印整型数组">
+      <created>1569409430726</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569409430726</updated>
+    </task>
+    <task id="LOCAL-00020" summary="分析一个简短的递归方法，并验证分析结果是否正确 exR1()">
+      <created>1569478768280</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1569478768280</updated>
+    </task>
+    <task id="LOCAL-00021" summary="递归导致的堆栈溢出错误，谨慎使用递归，严格判断会不会溢出">
+      <created>1569558336905</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1569558336905</updated>
+    </task>
+    <task id="LOCAL-00022" summary="包含 递归计算乘法 ，递归计算pow 包含思考过程 可以单独使用">
+      <created>1569736572209</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1569736572210</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,7 +344,45 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="me" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -304,6 +403,14 @@
     <MESSAGE value="取消忽略idea项目的目录" />
     <MESSAGE value="可以单独使用的打印二维布尔数组矩阵的方法" />
     <MESSAGE value="增加了一些更加详细的说明" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加了一些更加详细的说明" />
+    <MESSAGE value="idea项目提交" />
+    <MESSAGE value="预测代码的输出结果，并且验证" />
+    <MESSAGE value="打印二维数组，和二维int数组转置 含有单独的方法，可以用于其他地方" />
+    <MESSAGE value="含有求解小于logn(N)的最大整数的算法可以修改底数直接拿来使用，有两个版本" />
+    <MESSAGE value="包含一个用于统计整型数组的函数 int[] histogram(int[] a, int M) &#10;一个使用foreach语句实现的整型数组sum求和 &#10;按照元素顺序打印整型数组" />
+    <MESSAGE value="分析一个简短的递归方法，并验证分析结果是否正确 exR1()" />
+    <MESSAGE value="递归导致的堆栈溢出错误，谨慎使用递归，严格判断会不会溢出" />
+    <MESSAGE value="包含 递归计算乘法 ，递归计算pow 包含思考过程 可以单独使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="包含 递归计算乘法 ，递归计算pow 包含思考过程 可以单独使用" />
   </component>
 </project>
