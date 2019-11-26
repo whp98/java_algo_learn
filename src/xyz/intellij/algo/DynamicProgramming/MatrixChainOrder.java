@@ -1,4 +1,4 @@
-package xyz.intellij.DynamicProgramming;
+package xyz.intellij.algo.DynamicProgramming;
 
 import java.util.Scanner;
 
