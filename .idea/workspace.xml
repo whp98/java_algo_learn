@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63eb466f-d5ba-4538-954e-5127c1a6668b" name="Default Changelist" comment="使用if语句判断数值的范围">
-      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p1110.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p113.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p114.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p115.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p117.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p118.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p119.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/testR.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/learn/algo/ch1/p1119.java" afterDir="false" />
+    <list default="true" id="63eb466f-d5ba-4538-954e-5127c1a6668b" name="Default Changelist" comment="完成了，一个递归求解ln(N!)的值的算法，方法比较简单，可以单独使用">
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-history.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/DynamicProgramming/MatrixChainOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/learn/algo/ch1/d1121.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/learn/algo/ch1/p1121.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mavenServices.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mavenServices.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p1110.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p1110.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p113.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p113.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p114.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p114.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p115.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p115.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p117.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p117.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p118.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p118.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p119.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/p119.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/testR.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_algo_learn/xyz/intellij/java/learn/algo/ch1/testR.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,17 +42,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1R2VRS2VVI6lgH08vfxAU6p5yCA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/SOFTware/idea_ansdk" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StaticBlog" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,13 +70,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.p1119">
-    <configuration name="p1115" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1115" />
+  <component name="RunManager" selected="Application.MatrixChainOrder">
+    <configuration name="Dac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.algo.DivideAndConquer.Dac" />
       <module name="java_algo_learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xyz.intellij.java.learn.algo.ch1.*" />
+          <option name="PATTERN" value="xyz.intellij.algo.DivideAndConquer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,38 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p1116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1116" />
+    <configuration name="MatrixChainOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.DynamicProgramming.MatrixChainOrder" />
       <module name="java_algo_learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xyz.intellij.java.learn.algo.ch1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p1117" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1117" />
-      <module name="java_algo_learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="xyz.intellij.java.learn.algo.ch1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p1118" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1118" />
-      <module name="java_algo_learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="xyz.intellij.java.learn.algo.ch1.*" />
+          <option name="PATTERN" value="xyz.intellij.DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,13 +110,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p1120" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1120" />
+      <module name="java_algo_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.intellij.java.learn.algo.ch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p1121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1121" />
+      <module name="java_algo_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.intellij.java.learn.algo.ch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixChainOrder" />
+        <item itemvalue="Application.Dac" />
+        <item itemvalue="Application.p1121" />
+        <item itemvalue="Application.p1120" />
         <item itemvalue="Application.p1119" />
-        <item itemvalue="Application.p1118" />
-        <item itemvalue="Application.p1117" />
-        <item itemvalue="Application.p1116" />
-        <item itemvalue="Application.p1115" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +165,28 @@
       <workItem from="1569477271932" duration="3555000" />
       <workItem from="1569558152233" duration="3101000" />
       <workItem from="1569732021950" duration="7912000" />
-      <workItem from="1570586376509" duration="329000" />
+      <workItem from="1570586376509" duration="2749000" />
+      <workItem from="1570589350200" duration="2008000" />
+      <workItem from="1570626111806" duration="26000" />
+      <workItem from="1570626166027" duration="24000" />
+      <workItem from="1570626211658" duration="1205000" />
+      <workItem from="1570684446824" duration="626000" />
+      <workItem from="1570809373390" duration="407000" />
+      <workItem from="1570810072951" duration="36000" />
+      <workItem from="1570810927462" duration="5000" />
+      <workItem from="1570812441994" duration="216000" />
+      <workItem from="1570812681037" duration="899000" />
+      <workItem from="1570813913423" duration="744000" />
+      <workItem from="1570814858048" duration="750000" />
+      <workItem from="1571191100733" duration="3861000" />
+      <workItem from="1571195186100" duration="1120000" />
+      <workItem from="1574295811572" duration="4794000" />
+      <workItem from="1574332041208" duration="774000" />
+      <workItem from="1574382250833" duration="3300000" />
+      <workItem from="1574428003257" duration="1300000" />
+      <workItem from="1574509044387" duration="1215000" />
+      <workItem from="1574673830756" duration="858000" />
+      <workItem from="1574779649644" duration="2166000" />
     </task>
     <task id="LOCAL-00001" summary="如果一个数组不分配内存就拿来使用的话就会报编译错误">
       <created>1568873437198</created>
@@ -308,7 +342,28 @@
       <option name="project" value="LOCAL" />
       <updated>1569736572210</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="完成了数组版的费波纳希数列，速度很快">
+      <created>1570586915641</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1570586915641</updated>
+    </task>
+    <task id="LOCAL-00024" summary="完成了，一个递归求解ln(N!)的值的算法，方法比较简单，可以单独使用">
+      <created>1570809565245</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1570809565245</updated>
+    </task>
+    <task id="LOCAL-00025" summary="分治算法，归并排序">
+      <created>1574387533786</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1574387533786</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,6 +400,18 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="date">
+                    <value>
+                      <list>
+                        <option value="1570204604082" />
+                        <option value="" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -411,6 +478,23 @@
     <MESSAGE value="分析一个简短的递归方法，并验证分析结果是否正确 exR1()" />
     <MESSAGE value="递归导致的堆栈溢出错误，谨慎使用递归，严格判断会不会溢出" />
     <MESSAGE value="包含 递归计算乘法 ，递归计算pow 包含思考过程 可以单独使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="包含 递归计算乘法 ，递归计算pow 包含思考过程 可以单独使用" />
+    <MESSAGE value="完成了数组版的费波纳希数列，速度很快" />
+    <MESSAGE value="完成了，一个递归求解ln(N!)的值的算法，方法比较简单，可以单独使用" />
+    <MESSAGE value="分治算法，归并排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="分治算法，归并排序" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/xyz/intellij/algo/DivideAndConquer/Dac.java</url>
+          <line>142</line>
+          <properties class="xyz.intellij.algo.DivideAndConquer.sort.Dac" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
