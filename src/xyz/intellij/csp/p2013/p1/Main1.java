@@ -18,7 +18,7 @@ public class Main1 {
             }
             hashMap.put(tempNumber,countNew);
         }
-        ArrayList<Integer> al = (ArrayList<Integer>) getKeys(hashMap,max);
+        ArrayList<Integer> al = (ArrayList<Integer>) getKeys(hashMap, max);
         Collections.sort(al);
         System.out.println(al.get(0));
     }
