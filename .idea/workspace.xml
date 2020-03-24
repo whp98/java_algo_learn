@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63eb466f-d5ba-4538-954e-5127c1a6668b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/algo/DivideAndConquer/MaxAndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/algo/DynamicProgramming/MaxMutilation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/algo/beibao/Beibao_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/algo/lis/LIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/csp/p2013/p4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/DynamicProgramming/MatrixChainOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/intellij/algo/DynamicProgramming/MatrixChainOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/DynamicProgramming/task.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/intellij/algo/DynamicProgramming/task.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/csp/p2013/p1/CSP20131201.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/intellij/csp/p2013/p1/CSP20131201.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/csp/p2013/p2/CSP20131202.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/intellij/csp/p2013/p2/CSP20131202.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,12 +33,17 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/SOFTware/idea_ansdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StaticBlog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/xyz/intellij/csp/p2013/p2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -43,25 +51,19 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PROject\java_algo_learn\src\xyz\intellij\csp\p2013\p2" />
+      <recent name="D:\PROject\java_algo_learn\src\xyz\intellij\csp\p2013\p1" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.MaxAndMin">
-    <configuration name="Dac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.algo.DivideAndConquer.Dac" />
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.csp.p2013.p2.Main" />
       <module name="java_algo_learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xyz.intellij.algo.DivideAndConquer.*" />
+          <option name="PATTERN" value="xyz.intellij.csp.p2013.p2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixChainOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.DynamicProgramming.MatrixChainOrder" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.csp.p2013.p3.Main" />
       <module name="java_algo_learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xyz.intellij.DynamicProgramming.*" />
+          <option name="PATTERN" value="xyz.intellij.csp.p2013.p3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.algo.DivideAndConquer.MaxAndMin" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.csp.p2013.p4.Main" />
       <module name="java_algo_learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xyz.intellij.algo.DivideAndConquer.*" />
+          <option name="PATTERN" value="xyz.intellij.csp.p2013.p4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p1121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.java.learn.algo.ch1.p1121" />
+    <configuration name="Main0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.csp.p2013.p1.Main0" />
       <module name="java_algo_learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xyz.intellij.java.learn.algo.ch1.*" />
+          <option name="PATTERN" value="xyz.intellij.csp.p2013.p1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="shortPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xyz.intellij.algo.DivideAndConquer.shortPath" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.intellij.csp.p2013.p1.Main1" />
       <module name="java_algo_learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xyz.intellij.algo.DivideAndConquer.*" />
+          <option name="PATTERN" value="xyz.intellij.csp.p2013.p1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,13 +125,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxAndMin" />
-        <item itemvalue="Application.shortPath" />
-        <item itemvalue="Application.MatrixChainOrder" />
-        <item itemvalue="Application.Dac" />
-        <item itemvalue="Application.p1121" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main0" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -172,7 +186,17 @@
       <workItem from="1574509044387" duration="1215000" />
       <workItem from="1574673830756" duration="858000" />
       <workItem from="1574779649644" duration="2526000" />
-      <workItem from="1574788879614" duration="4647000" />
+      <workItem from="1574788879614" duration="5357000" />
+      <workItem from="1574834801684" duration="601000" />
+      <workItem from="1575466506401" duration="6328000" />
+      <workItem from="1575599593037" duration="6000" />
+      <workItem from="1582217643101" duration="777000" />
+      <workItem from="1582272005470" duration="6828000" />
+      <workItem from="1582552610945" duration="8601000" />
+      <workItem from="1582638284959" duration="5702000" />
+      <workItem from="1582644106781" duration="385000" />
+      <workItem from="1582732758342" duration="6229000" />
+      <workItem from="1583055307585" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="如果一个数组不分配内存就拿来使用的话就会报编译错误">
       <created>1568873437198</created>
@@ -370,7 +394,49 @@
       <option name="project" value="LOCAL" />
       <updated>1574793199134</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="分治算法求最大值最小值">
+      <created>1574802952344</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1574802952344</updated>
+    </task>
+    <task id="LOCAL-00030" summary="分治算法求最大值最小值">
+      <created>1574802977522</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1574802977522</updated>
+    </task>
+    <task id="LOCAL-00031" summary="CSP 2013 第一题">
+      <created>1582558732758</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1582558732758</updated>
+    </task>
+    <task id="LOCAL-00032" summary="修改小错误">
+      <created>1582566718580</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1582566718580</updated>
+    </task>
+    <task id="LOCAL-00033" summary="201312第二题">
+      <created>1582644063228</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1582644063228</updated>
+    </task>
+    <task id="LOCAL-00034" summary="201312第三题">
+      <created>1582741612599</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1582741612599</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,11 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加README.md说明文档" />
-    <MESSAGE value="使用if语句判断数值的范围" />
-    <MESSAGE value="运行书上的代码观察输出" />
-    <MESSAGE value="基本的字符串拼接和字符参与运算的例子" />
-    <MESSAGE value="将正整数转化为二进制的算法，包括简单拼接和调用Intenger方法" />
     <MESSAGE value="阅读第一章中所使用的代码主要用于测试输出" />
     <MESSAGE value="忽略java编译的二进制文件" />
     <MESSAGE value="创建idea项目自动生成" />
@@ -488,7 +549,38 @@
     <MESSAGE value="动态规划,矩阵链乘法" />
     <MESSAGE value="添加整个项目工程文件" />
     <MESSAGE value="最近距离算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="最近距离算法" />
+    <MESSAGE value="分治算法求最大值最小值" />
+    <MESSAGE value="CSP 2013 第一题" />
+    <MESSAGE value="修改小错误" />
+    <MESSAGE value="201312第二题" />
+    <MESSAGE value="201312第三题" />
+    <option name="LAST_COMMIT_MESSAGE" value="201312第三题" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="296" y="80" key="#Plugins" timestamp="1582644085693">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="296" y="80" key="#Plugins/0.0.1536.864@0.0.1536.864" timestamp="1582644085693" />
+    <state x="372" y="24" key="CommitChangelistDialog2" timestamp="1582741611436">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="372" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1582741611436" />
+    <state width="1493" height="257" key="GridCell.Tab.0.bottom" timestamp="1582788270042">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582788270042" />
+    <state width="1493" height="257" key="GridCell.Tab.0.center" timestamp="1582788270042">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582788270042" />
+    <state width="1493" height="257" key="GridCell.Tab.0.left" timestamp="1582788270042">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582788270042" />
+    <state width="1493" height="257" key="GridCell.Tab.0.right" timestamp="1582788270042">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582788270042" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
