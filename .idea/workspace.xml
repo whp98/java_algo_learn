@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63eb466f-d5ba-4538-954e-5127c1a6668b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/algo/DynamicProgramming/MaxMutilation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/algo/beibao/Beibao_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/algo/lis/LIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/csp/p2013/p4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/csp/p2013/p1/CSP20131201.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/intellij/csp/p2013/p1/CSP20131201.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/xyz/intellij/csp/p2013/p2/CSP20131202.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/intellij/csp/p2013/p2/CSP20131202.md" afterDir="false" />
-    </list>
+    <list default="true" id="63eb466f-d5ba-4538-954e-5127c1a6668b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,6 +188,7 @@
       <workItem from="1582644106781" duration="385000" />
       <workItem from="1582732758342" duration="6229000" />
       <workItem from="1583055307585" duration="5000" />
+      <workItem from="1585054799251" duration="158000" />
     </task>
     <task id="LOCAL-00001" summary="如果一个数组不分配内存就拿来使用的话就会报编译错误">
       <created>1568873437198</created>
