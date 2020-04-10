@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63eb466f-d5ba-4538-954e-5127c1a6668b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/algs4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/learn/algo/ch1/p1_3/BagDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/learn/algo/ch1/p1_3/Evaluate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xyz/intellij/java/learn/algo/ch1/p1_3/ResizingArrayStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_algo_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_algo_learn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +43,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15234375" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -203,7 +198,8 @@
       <workItem from="1585704223353" duration="9000" />
       <workItem from="1586408374410" duration="640000" />
       <workItem from="1586419225124" duration="1943000" />
-      <workItem from="1586523392793" duration="7940000" />
+      <workItem from="1586523392793" duration="8062000" />
+      <workItem from="1586532446366" duration="226000" />
     </task>
     <task id="LOCAL-00001" summary="如果一个数组不分配内存就拿来使用的话就会报编译错误">
       <created>1568873437198</created>
@@ -584,30 +580,30 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="542" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1586408452793" />
-    <state width="1495" height="270" key="GridCell.Tab.0.bottom" timestamp="1586532261108">
+    <state width="1495" height="270" key="GridCell.Tab.0.bottom" timestamp="1586532412709">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1495" height="270" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586532261108" />
+    <state width="1495" height="270" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586532412709" />
     <state width="1493" height="257" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582788270042" />
-    <state width="1495" height="270" key="GridCell.Tab.0.center" timestamp="1586532261108">
+    <state width="1495" height="270" key="GridCell.Tab.0.center" timestamp="1586532412709">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1495" height="270" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586532261108" />
+    <state width="1495" height="270" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586532412709" />
     <state width="1493" height="257" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582788270042" />
-    <state width="1495" height="270" key="GridCell.Tab.0.left" timestamp="1586532261108">
+    <state width="1495" height="270" key="GridCell.Tab.0.left" timestamp="1586532412709">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1495" height="270" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586532261108" />
+    <state width="1495" height="270" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586532412709" />
     <state width="1493" height="257" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582788270042" />
-    <state width="1495" height="270" key="GridCell.Tab.0.right" timestamp="1586532261108">
+    <state width="1495" height="270" key="GridCell.Tab.0.right" timestamp="1586532412709">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1495" height="270" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586532261108" />
+    <state width="1495" height="270" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586532412709" />
     <state width="1493" height="257" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582788270042" />
-    <state x="58" y="108" width="1283" height="707" key="SettingsEditor" timestamp="1586525844820">
+    <state x="58" y="108" width="1283" height="707" key="SettingsEditor" timestamp="1586532410388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="58" y="108" width="1283" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1586525844820" />
+    <state x="58" y="108" width="1283" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1586532410388" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
