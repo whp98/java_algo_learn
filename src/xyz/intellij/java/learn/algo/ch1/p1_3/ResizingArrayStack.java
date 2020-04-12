@@ -88,6 +88,13 @@ public class ResizingArrayStack<Item> implements Iterable<Item> {
         resizingArrayStack.push("sss");
 
         resizingArrayStack.push("aaa");
+        System.out.println("foreach : ");
+
+        for (String a:
+             resizingArrayStack) {
+            System.out.println(a);
+        }
+        System.out.println("pop & size :");
         System.out.println(resizingArrayStack.size());
         System.out.println(resizingArrayStack.pop());
         System.out.println(resizingArrayStack.size());
