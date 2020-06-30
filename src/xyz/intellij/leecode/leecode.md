@@ -27,3 +27,7 @@
 [771](src\xyz\intellij\leecode\p771\Main.java)
 ### ip地址无效化
 [1108](src\xyz\intellij\leecode\p1108\Main.java)
+### 最长和谐子序列
+[594](src\xyz\intellij\leecode\p594\Main.java)
+### 上升下降字符串
+[1370](src\xyz\intellij\leecode\p1370\Main.java)
