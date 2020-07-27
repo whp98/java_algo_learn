@@ -8,5 +8,5 @@
 [直达目录](src\xyz\intellij\java\learn\algo\algs4.md)
 ## leecode刷题目录
 这个是leecode刷题的目录
-[直达目录]()
+[直达目录](src\xyz\intellij\leecode\leecode.md)
 ## csp考试的目录
